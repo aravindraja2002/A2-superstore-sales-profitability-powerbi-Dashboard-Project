@@ -1,0 +1,2 @@
+# A2-superstore-sales-profitability-powerbi-Dashboard-Project
+Excel, MySQL and Power BI retail analytics on the Superstore dataset (2014-2017). Cleans the data in Excel, answers five business questions in SQL and builds a 4-page Power BI dashboard. Finds a 12.5% margin, a 2.5% furniture margin and losses once discounts pass 20%, guiding discount and product-mix decisions, KPIs, region, category, top products.
